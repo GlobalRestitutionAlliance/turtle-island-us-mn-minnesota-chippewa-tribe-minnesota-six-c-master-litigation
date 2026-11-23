@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MN+MINNESOTA+CHIPPEWA+TRIBE+MINNESOTA+SIX+C",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MN+MINNESOTA+CHIPPEWA+TRIBE+MINNESOTA+SIX+C",
+  "title": "Federal Register - MN MINNESOTA CHIPPEWA TRIBE MINNESOTA SIX C",
+  "fetched_at": "2026-11-23T17:43:32.593866Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 241320,
+  "sha256": "c3642bde3080465d96668b7b55ecd89d294f4d77585929f701e5967e6126a22f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
